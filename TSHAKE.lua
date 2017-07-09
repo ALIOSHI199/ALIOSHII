@@ -1,10 +1,10 @@
---[[                                    Dev @lIMyIl         
-   _____    _        _    _    _____    Dev @EMADOFFICAL 
-  |_   _|__| |__    / \  | | _| ____|   Dev @h_k_a  
-    | |/ __| '_ \  / _ \ | |/ /  _|     Dev @IX00XI
-    | |\__ \ | | |/ ___ \|   <| |___    Dev @H_173
-    |_||___/_| |_/_/   \_\_|\_\_____|   Dev @lIESIl
-              CH > @TshAkETEAM
+--[[            _         Dev @al_95h                      
+               / \        Dev @alioshibot 
+              / _ \     Dev @alioshiii
+             / ___ 
+            /_/   \_\
+
+              CH > @al_95h
 --]]
 serpent = require('serpent')
 serp = require 'serpent'.block
@@ -1856,7 +1856,7 @@ end
 send(msg.chat_id_, msg.id_, 1, moody, 1, 'md')
 end
 
-if text == 'تشاكي' then 
+if text == 'برنس' then 
 if not database:get('bot:rep:mute'..msg.chat_id_) then
 moody = "• نٍٰـعٍِّـﮧﮧمٍٰ تّٰفِٰـہضلْٰ 🍁🌛ֆ"
 else 
@@ -2146,7 +2146,7 @@ send(msg.chat_id_, msg.id_, 1, moody, 1, 'md')
 end
 if text == 'شسمك' then 
 if not database:get('bot:rep:mute'..msg.chat_id_) then
-moody = "• اَٰسٌٍمٍٰـﮧهَٰہۧ عٍِّبٌِٰـﮧوٍّ໑سٌٍيَٰ لْٰـوٍّ૭سٌٍہيَٰ😾😹💛ֆ"
+moody = "• اَٰسٌٍمٍٰـﮧهَٰہۧ عٍِّبٌِٰـﮧوٍّ علوشييֆ"
 else 
 moody = ''
 end
@@ -7462,7 +7462,7 @@ end
 	end
 	-----------------------------------------------------------------------------------------------
 if text:match("^[Dd][Ee][Vv]$")or text:match("^مطور بوت$") or text:match("^مطورين$") or text:match("^مطور البوت$") or text:match("^المطورين$") or text:match("^مطور$") or text:match("^المطور$") and msg.reply_to_message_id_ == 0 then
-       sendContact(msg.chat_id_, msg.id_, 0, 1, nil, 9647707641864, "TshAke TEAM" , "", bot_id)
+       sendContact(msg.chat_id_, msg.id_, 0, 1, nil, 9647708043543, "ALIOSH" , "", bot_id)
     end
 	-----------------------------------------------------------------------------------------------
           local text = msg.content_.text_:gsub('وضع اسم','setname')
@@ -8535,23 +8535,23 @@ end
 if text:match("^source$") or text:match("^اصدار$") or text:match("^الاصدار$") or text:match("^السورس$") or text:match("^سورس$") then
    
    local text =  [[
-<code>اهلا بك في سورس تشاكي</code>
+<code> ALIOSH هلا بك في سورسي</code>
 
 <code>المطورين : </code>
 
-<b> TshAkE TEAM </b>
+<b> ALIOSH </b>
 
 <code>قناه السورس : </code>
 
-<b>Channel | </b>@lTSHAKEl_CH
+<b>Channel | </b>@ALIOSHIII
 
 <code>رابط Github cli :</code>
 
-https://github.com/moodlIMyIl/TshAkE
+https://t.me/al_95h
 
 <code>رابط Github api :</code>
 
-https://github.com/moodlIMyIl/TshAkEapi
+https://github.com/ALIOSHI199/ALIOSHII
 ]]
                 send(msg.chat_id_, msg.id_, 1, text, 1, 'html')
    end
@@ -8693,11 +8693,8 @@ end
   -----------------------------------------------------------------------------------------------
 end
 
---[[                                    Dev @lIMyIl         
-   _____    _        _    _    _____    Dev @EMADOFFICAL 
-  |_   _|__| |__    / \  | | _| ____|   Dev @h_k_a  
-    | |/ __| '_ \  / _ \ | |/ /  _|     Dev @IX00XI
-    | |\__ \ | | |/ ___ \|   <| |___    Dev @H_173
-    |_||___/_| |_/_/   \_\_|\_\_____|   Dev @lIESIl
-              CH > @TshAkETEAM
+--[[                                    
+Dev @ALIOSH
+
+   
 --]]
